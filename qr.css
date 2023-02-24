@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(179, 179, 248);
+}
+
+#pic {
+    padding: 12px 10px 10px 12px;
+    background-color: white;
+    margin: 30px 460px 0 450px;
+    border-radius: 10px;
+}
+
+img {
+    width: 330px;
+    border-radius: 10px;
+}
+
+#text {
+    text-align: center;
+}
+
+#imp {
+    font-size: 25px;
+}
+
+#scan {
+    font-size: 15px;
